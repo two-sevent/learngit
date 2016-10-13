@@ -7,4 +7,5 @@ Git is free software distributed under the GPL.
 ‘这是一段中文，用来测试在历史版本中修改’
 'this hhhhhh'
 '再加一行用来测试'
+Creating a new branch is quick.
 end
